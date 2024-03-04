@@ -1,2 +1,2 @@
 # blogapp_repo
-used Djnago,HTML,CSS
+used Django,HTML,CSS
